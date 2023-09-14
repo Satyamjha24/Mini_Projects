@@ -35,9 +35,9 @@ const Projects = () => {
       title: "Project 4",
       image:
         "https://github-production-user-asset-6210df.s3.amazonaws.com/98752820/267398734-72b0d037-3292-4e89-98c7-a28851dfaaed.png",
-      description: "This website will provide essential details about the kindergarten's programs, facilities, admission process, and contact information.",
-      techStacks: ["html", "css", "javascript", "react", "redux", "angular", "mongodb"],
-      repolink: "www.github.com/Ajay84sia/BUYC",
+      description: "Designed a URL shortening app with React, Node.js, and MongoDB, showcasing web development and database skills.",
+      techStacks: ["html", "css", "javascript", "react", "Vite", "Node.js", "Express", "mongodb"],
+      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Trim_Url",
       livelink: "https://url-trim.netlify.app/",
     },
 
