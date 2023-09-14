@@ -17,7 +17,7 @@ const Projects = () => {
       title: "Shayari-Genrator",
       image:
         "https://private-user-images.githubusercontent.com/107462251/267675326-10d1708e-6858-4ee7-9ae5-7fb33e54ea77.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQ2MTMxODUsIm5iZiI6MTY5NDYxMjg4NSwicGF0aCI6Ii8xMDc0NjIyNTEvMjY3Njc1MzI2LTEwZDE3MDhlLTY4NTgtNGVlNy05YWU1LTdmYjMzZTU0ZWE3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwOTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDkxM1QxMzQ4MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzhhYWYyNzE0YTYzODRhYzE3ZWMxNWRiOTlhNTk3YWFkYjE4YTFmZDA5YjE1Yzg0YzY2MGVjNDhhYjQyOTRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q-Wl0-lzQAcY7fnDkiCLnSFjzZfomqk0b1ZUZJz3dNk",
-      description: "Unlock the beauty of emotions with our Shayari Companion App. AI-powered shayaris on demand, tailored to your keywords.",
+      description: "This app allows users to generate shayari, or rhyming couplets, by entering a single word. It uses a large language model to generate the shayari, which are often witty and insightful.",
       techStacks: ["html", "css", "javascript",'OpenAI'],
       repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/joke_generator",
       livelink: "https://shayaris.netlify.app/",
@@ -38,7 +38,7 @@ const Projects = () => {
       description: "This website will provide essential details about the kindergarten's programs, facilities, admission process, and contact information.",
       techStacks: ["html", "css", "javascript", "react", "redux", "angular", "mongodb"],
       repolink: "www.github.com/Ajay84sia/BUYC",
-      livelink: "https://example.com/project1",
+      livelink: "https://url-trim.netlify.app/",
     },
 
     // Add more project data as needed
