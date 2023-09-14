@@ -32,7 +32,7 @@ const Projects = () => {
       livelink: "https://satyamjha24-calculator.netlify.app/",
     },
     {
-      title: "Project 4",
+      title: "URL Shortner",
       image:
         "https://github-production-user-asset-6210df.s3.amazonaws.com/98752820/267398734-72b0d037-3292-4e89-98c7-a28851dfaaed.png",
       description: "Designed a URL shortening app with React, Node.js, and MongoDB, showcasing web development and database skills.",
