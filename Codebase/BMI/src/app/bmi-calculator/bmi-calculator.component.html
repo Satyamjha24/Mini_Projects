@@ -1,0 +1,37 @@
+<div class="container mt-20 mx-auto  flex flex-col items-center justify-center">
+    <div class="bg-blue-200 p-8 rounded-lg shadow-md"> <!-- Added bg-blue-200 and shadow-md for styling -->
+      <h2 class="text-2xl font-semibold text-black text-center">BMI Calculator</h2> <!-- Added text-blue-800 for the text color -->
+      <div class="my-4">
+        <label for="weight" class="block text-blue-600 font-semibold">Weight (kg) :</label> <!-- Added text-blue-600 for the label color -->
+        <input
+          type="number"
+          id="weight"
+          [(ngModel)]="weight"
+          class="border py-2 px-4 mt-2 rounded focus:outline-none focus:border-blue-400"
+        /> <!-- Added focus styles -->
+      </div>
+      <div class="my-4">
+        <label for="height" class="block text-blue-600 font-semibold">Height (cm) :</label>
+        <input
+          type="number"
+          id="height"
+          [(ngModel)]="height"
+          class="border py-2 px-4 mt-2 rounded focus:outline-none focus:border-blue-400"
+        />
+      </div>
+      <div class="text-center text-xl font-semibold"> 
+        <button
+          (click)="calculateBMI()"
+          class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 mt-2 rounded transition-colors duration-300">
+          Calculate
+        </button>
+      </div>
+    </div>
+  
+   
+    <div [class]="getCSSClassForBG(getBMICategory()) + ' mt-8 p-4 rounded-lg shadow-md text-center'" *ngIf="bmi"> <!-- Added bg-green-200 and shadow-md for styling -->
+      <h2 class="text-2xl font-semibold ">BMI Result</h2> <!-- Added text-green-800 for the text color -->
+      <p class="text-xl font-semibold">Your BMI Score is: {{ bmi.toFixed(2) }} kg/m²</p>
+      <p [class]="getCSSClassForBMICategory(getBMICategory()) + ' text-2xl font-semibold '">{{ getBMICategory() }}</p>
+    </div>
+  </div>
