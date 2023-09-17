@@ -46,7 +46,7 @@ const Projects = () => {
         "https://github.com/Satyamjha24/Mini_Projects/assets/107462251/f7de4287-48a3-47fa-a18e-23b1d75533d9",
       description: "Developed a dynamic weather app using CSS, JavaScript, and React, empowering users to instantly access real-time weather updates for their desired cities or states. Demonstrated expertise in web development and user-centric functionality.",
       techStacks: ["react","javascript", "Open Weather Api", "CSS"],
-      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Trim_Url",
+      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Live_Weather/weather_app",
       livelink: "https://weather-satyam.netlify.app/",
     },
     {
@@ -55,7 +55,7 @@ const Projects = () => {
         "https://github.com/Satyamjha24/Mini_Projects/assets/107462251/59389b6b-6738-42a2-9f57-f093ef059ff8",
       description: "Developed a robust Angular-based Todo App with TypeScript and Tailwind, integrating JSON Server for seamless task management—demonstrating expertise in frontend development and backend data handling.",
       techStacks: ["Angular","TypeScript", "Tailwind CSS", "JSON Server"],
-      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Trim_Url",
+      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/todo-app",
       livelink: "https://todoangularsatyam.netlify.app/",
     },
     {
@@ -64,7 +64,7 @@ const Projects = () => {
         "https://github.com/Satyamjha24/Mini_Projects/assets/107462251/018cf126-dded-4348-921d-05d98de0f796",
       description: "Engineered a Body Mass Index calculator utilizing Angular, TypeScript, and Tailwind, enabling users to swiftly determine their BMI by inputting weight and height. Demonstrated proficiency in frontend development and user-friendly health assessment tools.",
       techStacks: ["Angular","TypeScript", "Tailwind CSS"],
-      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Trim_Url",
+      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/BMI",
       livelink: "https://calculate-live-bmi.netlify.app/",
     },
     {
@@ -73,7 +73,7 @@ const Projects = () => {
         "https://github.com/Satyamjha24/Mini_Projects/assets/107462251/95219754-845d-4ece-9a5f-6931719570e3",
       description: "Introducing StopwatchPro: Your precision timekeeper on the go! Whether you're tracking workouts, measuring cooking times, or managing your day, our Stopwatch App has you covered. Experience accuracy and simplicity at your fingertips.",
       techStacks: ["HTML","CSS", "JavaScript"],
-      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Trim_Url",
+      repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Stopwatch",
       livelink: "https://calculate-live-bmi.netlify.app/",
     },
     
@@ -82,7 +82,7 @@ const Projects = () => {
   ];
 
   return (
-    <Box p={4}  bg={useColorModeValue('teal.50', 'teal.900')}>
+    <Box p={4}  bg={useColorModeValue('teal.50', 'teal.900')} pt={'12vh'}>
       <Heading as="h1" size="xl" mb={4} textAlign={"center"}>
         Mini Projects
       </Heading>

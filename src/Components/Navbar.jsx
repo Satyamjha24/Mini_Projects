@@ -15,6 +15,7 @@ import {
   Stack,
   useColorMode,
   Center,
+  Heading,
 } from '@chakra-ui/react'
 import { MoonIcon, SunIcon } from '@chakra-ui/icons'
 
@@ -44,9 +45,9 @@ export default function Navbar() {
   
   return (
     <>
-      <Box bg={useColorModeValue('teal.300', 'teal.600')} px={10}>
+      <Box bg={useColorModeValue('teal.300', 'teal.600')} px={10} position={'fixed'} w={'100vw'}>
         <Flex h={16} alignItems={'center'} justifyContent={'space-between'}>
-          <Box><span style={{color:'#FF671F',fontWeight:'bold',fontSize:'25px'}}>SA</span><span style={{color:'white',fontWeight:'bold',fontSize:'25px'}}>TY</span><span style={{color:'#09ab5c',fontWeight:'bold',fontSize:'25px'}}>AM</span></Box>
+          <Box><Heading size='lg' color={useColorModeValue('black', 'yellow.200')} fontFamily={"Times New Roman"}>SATYAM</Heading> </Box>
 
           <Flex alignItems={'center'}>
             <Stack direction={'row'} spacing={7}>

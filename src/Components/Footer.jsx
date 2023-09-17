@@ -56,13 +56,13 @@ export default function Footer() {
         <Text fontWeight={'bold'}>© 2023 Satyam. All rights reserved</Text>
         <Stack direction={'row'} spacing={6}>
         <SocialButton label={'LinkedIn'} href={'https://www.linkedin.com/in/satyamjha24/'}>
-              <FaLinkedin />
+              <FaLinkedin fontSize={'25px'}/>
             </SocialButton>
             <SocialButton label={'GitHub'} href={'https://github.com/Satyamjha24'}>
-              <FaGithub />
+              <FaGithub  fontSize={'25px'}/>
             </SocialButton>
             <SocialButton label={'Portfolio'} href={'https://satyamjha24.github.io/'}>
-              <RxAvatar />
+              <RxAvatar  fontSize={'25px'}/>
             </SocialButton>
         </Stack>
       </Container>
