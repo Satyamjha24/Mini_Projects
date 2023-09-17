@@ -14,17 +14,25 @@ Currently, two official plugins are available:
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/13bbba08-73e1-4d63-8ba3-cf9220cb6691)
 
 # Calculator
-![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/995ecbe5-7607-4146-afd8-4034d60ea516)
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/4ca08d67-7ff1-405c-a037-cf79f0fded79)
 
 # URL-Shortner
-![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/50dcf557-a497-442e-a7a3-be0bc5c44816)
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/1987f8a6-b445-4f7b-bf88-88bdb8b3d33b)
 
 # Weather-App
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/f7de4287-48a3-47fa-a18e-23b1d75533d9)
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/24d7816c-044a-4d66-ae5a-ab67a10c8342)
 
 # Todo-Angular
-![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/cfa67dda-a79b-4fc8-ac09-8749639e5039)
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/59389b6b-6738-42a2-9f57-f093ef059ff8)
+
+
+# BMI-Calculator
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/018cf126-dded-4348-921d-05d98de0f796)
+
+# Stopwatch
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/95219754-845d-4ece-9a5f-6931719570e3)
+
 
 
 
