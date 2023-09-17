@@ -41,6 +41,7 @@ const NavLink = (props) => {
 export default function Navbar() {
   const { colorMode, toggleColorMode } = useColorMode()
   const { isOpen, onOpen, onClose } = useDisclosure()
+  
   return (
     <>
       <Box bg={useColorModeValue('teal.300', 'teal.600')} px={10}>
