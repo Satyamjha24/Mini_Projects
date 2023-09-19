@@ -26,13 +26,14 @@ Currently, two official plugins are available:
 # Todo-Angular
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/59389b6b-6738-42a2-9f57-f093ef059ff8)
 
-
 # BMI-Calculator
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/018cf126-dded-4348-921d-05d98de0f796)
 
 # Stopwatch
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/95219754-845d-4ece-9a5f-6931719570e3)
 
+# Search-Github-Profile
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/4975728c-000d-4f29-bce4-84fdafab6758)
 
 
 
