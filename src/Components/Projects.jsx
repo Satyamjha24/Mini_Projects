@@ -76,7 +76,15 @@ const Projects = () => {
       repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/Stopwatch",
       livelink: "https://calculate-live-bmi.netlify.app/",
     },
-    
+    {
+    title: "Search-Github-Profile",
+    image:
+      "https://github.com/Satyamjha24/Mini_Projects/assets/107462251/4975728c-000d-4f29-bce4-84fdafab6758",
+    description: "GitHub Profile Search: Easily find and explore GitHub profiles with this user-friendly project. Simplify your search for fellow developers and their repositories. Now you can effortlessly uncover and explore GitHub profiles.",
+    techStacks: ["React","Tailwind CSS", "JavaScript"],
+    repolink: "https://github.com/Satyamjha24/Mini_Projects/tree/main/Codebase/github-userdata",
+    livelink: "https://git-user-profiles.netlify.app/",
+  },
 
     // Add more project data as needed
   ];
