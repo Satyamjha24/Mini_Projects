@@ -39,5 +39,12 @@ Currently, two official plugins are available:
 # Image-Search
 ![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/c317c846-1138-4059-9644-13e047a08fae)
 
+# Infunite-Scroll
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/e89ddfd5-3e62-4caa-8704-f96ecf17aade)
+
+# QR-Code Genrator
+![image](https://github.com/Satyamjha24/Mini_Projects/assets/107462251/721460a6-8010-487e-a351-732eb3729d48)
+
+
 
 
